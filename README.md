@@ -4,9 +4,13 @@ My name is Igor, and I'm a software engineer with a background in psychology and
 
 Off screen, I spend most of my free time:
 🎨 Drawing
+
 🪵 Woodcarving
+
 📚 Reading
+
 💃 Dancing
+
 🏃 Keeping Active
 
 I'm always open to collaborations, freelance opportunities, and good conversations. Feel free to reach out!
