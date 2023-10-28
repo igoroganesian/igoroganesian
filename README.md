@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey all 👋
 
-<!--
-**igoroganesian/igoroganesian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Igor, and I'm a software engineer with a background in psychology and holistic health & wellness, informing my approach to creating thoughtful & effective software solutions. I'm driven by a dual commitment to technical precision and a deep understanding of human experience, ensuring my work is not just functional but also empathetic to user needs.
 
-Here are some ideas to get you started:
+Off screen, I spend most of my free time:
+🎨 Drawing
+🪵 Woodcarving
+📚 Reading
+💃 Dancing
+🏃 Keeping Active
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always open to collaborations, freelance opportunities, and good conversations. Feel free to reach out!
+
+[💼 LinkedIn Profile](https://www.linkedin.com/in/igoroganesian/)
+[📫 Email](igor.oganesian@gmail.com)
