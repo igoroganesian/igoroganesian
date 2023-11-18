@@ -10,6 +10,7 @@ Off screen, I spend most of my free time:<br>
 🏃 Keeping Active<br>
 
 I'm always open to collaborations, freelance opportunities, and good conversations. Feel free to reach out!<br>
+
 💼 [LinkedIn](https://www.linkedin.com/in/igoroganesian/)<br>
 📫 [Email](igor.oganesian@gmail.com)<br>
 📝 [Resume](https://docs.google.com/document/d/1OutRA_NupEnmDoi6r1HAfNmOIrEF_BFx5MvrluZQlx0/edit?usp=sharing)
